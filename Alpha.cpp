@@ -2,12 +2,20 @@
 
 using namespace std;
 
+void IA()
+{
+	for(int i=0;i<10;i++)
+	cout<<"Peeno Mere Naal Weya Kr Ley"<<endl;
+	cout<<endl;
+}
+
 int main ()
 {
-	
+	IA();
 	for (int i=0;i<5;i++)
 		cout<<"I love Pakistan."<<endl;	
-
+	
+	//Fahad Saab ki repository hai
 	bool flag;
 	flag= true;
 	if(flag)
