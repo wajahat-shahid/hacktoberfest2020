@@ -13,9 +13,10 @@ int main ()
 {
 	IA();
 	for (int i=0;i<5;i++)
-		cout<<"I love Pakistan."<<endl;	
-	
-	//Fahad Saab ki repository hai
+		cout<<"I love Pakistan."<<endl;
+	cout<<endl;
+	IA();
+	//Wajahat Shahid
 	bool flag;
 	flag= true;
 	if(flag)
